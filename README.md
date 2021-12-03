@@ -34,7 +34,8 @@ If You Don't Know JioID and Pass then Simply click on autologin button
 ##### Run The Following Commands
 
     wget https://raw.githubusercontent.com/fishman01/jiotv/master/jiotv.sh
-    sudo sh jiotv.sh
+    chmod +x jiotv.sh
+    ./jiotv.sh
 1. Open Browser and go to the address displayed on teminal. Eg. 192.168.0.10:8080
 2. If your pc/raspberry pi is connected to jio network click on Try AutoLogin Button or else use your jio email-id and password to login
 3. Check your IP and port or your domain and click on generate playlist.
