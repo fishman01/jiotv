@@ -27,7 +27,7 @@ html {
         background: #000;
         z-index: 9999;
     }
-    
+
     .loading-text {
         position: absolute;
         top: 0;
@@ -40,49 +40,49 @@ html {
         height: 100px;
         line-height: 100px;
     }
-    
+
     .loading-text span {
         display: inline-block;
         margin: 0 5px;
         color: #00b3ff;
         font-family: 'Quattrocento Sans', sans-serif;
     }
-    
+
     .loading-text span:nth-child(1) {
         filter: blur(0px);
         animation: blur-text 1.5s 0s infinite linear alternate;
     }
-    
+
     .loading-text span:nth-child(2) {
         filter: blur(0px);
         animation: blur-text 1.5s 0.2s infinite linear alternate;
     }
-    
+
     .loading-text span:nth-child(3) {
         filter: blur(0px);
         animation: blur-text 1.5s 0.4s infinite linear alternate;
     }
-    
+
     .loading-text span:nth-child(4) {
         filter: blur(0px);
         animation: blur-text 1.5s 0.6s infinite linear alternate;
     }
-    
+
     .loading-text span:nth-child(5) {
         filter: blur(0px);
         animation: blur-text 1.5s 0.8s infinite linear alternate;
     }
-    
+
     .loading-text span:nth-child(6) {
         filter: blur(0px);
         animation: blur-text 1.5s 1s infinite linear alternate;
     }
-    
+
     .loading-text span:nth-child(7) {
         filter: blur(0px);
         animation: blur-text 1.5s 1.2s infinite linear alternate;
     }
-    
+
     @keyframes blur-text {
         0% {
             filter: blur(0px);
@@ -111,8 +111,7 @@ html {
         content: '';
         height: 35px;
         width: 35px;
-        background: url('http://jiotv.catchup.cdn.jio.com/dare_images/images/<?php echo $_REQUEST["c"]; ?>.png') no-repeat;
-        background-size: 35px auto, auto;
+        
     }
 
 </style>
