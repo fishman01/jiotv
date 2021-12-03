@@ -1,5 +1,5 @@
 apt update
-ARG DEBIAN_FRONTEND=noninteractive
+ENV DEBIAN_FRONTEND=noninteractive
 ENV TZ=Asia/Kolkata
 apt -y install apache2 php libapache2-mod-php unzip wget git systemctl
 apt -y install php php-cli php-fpm php-json php-common php-mysql php-zip php-gd php-mbstring php-curl php-xml php-pear php-bcmath
