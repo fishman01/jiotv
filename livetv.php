@@ -26,7 +26,7 @@ include "ip.php";
 <div id="list" class="row">
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Colors_Cineplex_HD" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" style="height: 120px" src="./Sneh JioTV_files/Color_Cineplex_HD.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png">
   <div class="card-body">
   <p class="card-text">Colors Cineplex HD</p>
   </div></a>
@@ -167,7 +167,7 @@ include "ip.php";
   </div></a>
 
   </div>
-  
+
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=NDTV_India" class="card">
   <img class="lazyload" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" style="height: 120px">
@@ -222,7 +222,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Sony_Max_HD" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" style="height: 120px" src="./Sneh JioTV_files/Sony_Max_HD.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png">
   <div class="card-body">
   <p class="card-text">Sony Max HD</p>
   </div></a>
@@ -235,7 +235,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Sony_HD" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" style="height: 120px" src="./Sneh JioTV_files/Sony_HD.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png">
   <div class="card-body">
   <p class="card-text">Sony HD</p>
   </div></a>
@@ -248,7 +248,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Sony_SAB_HD" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" style="height: 120px" src="./Sneh JioTV_files/Sony_SAB_HD.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png">
   <div class="card-body">
   <p class="card-text">Sony SAB HD</p>
   </div></a>
@@ -261,7 +261,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Sony_SAB" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" style="height: 120px" src="./Sneh JioTV_files/Sony_SAB.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png">
   <div class="card-body">
   <p class="card-text">Sony SAB</p>
   </div></a>
@@ -274,7 +274,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=And_TV_HD" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" style="height: 120px" src="./Sneh JioTV_files/And_TV_HD.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png">
   <div class="card-body">
   <p class="card-text">And TV HD</p>
   </div></a>
@@ -287,7 +287,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Zee_TV_HD" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" style="height: 120px" src="./Sneh JioTV_files/Zee_TV_HD.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png">
   <div class="card-body">
   <p class="card-text">Zee TV HD</p>
   </div></a>
@@ -300,7 +300,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Colors_HD" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" style="height: 120px" src="./Sneh JioTV_files/Colors_HD.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png">
   <div class="card-body">
   <p class="card-text">Colors HD</p>
   </div></a>
@@ -313,7 +313,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Zee_Anmol" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" style="height: 120px" src="./Sneh JioTV_files/Zee_Anmol.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png">
   <div class="card-body">
   <p class="card-text">Zee Anmol</p>
   </div></a>
@@ -326,7 +326,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Rishtey" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" style="height: 120px" src="./Sneh JioTV_files/Rishtey.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png">
   <div class="card-body">
   <p class="card-text">Rishtey</p>
   </div></a>
@@ -339,7 +339,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Sony_Pal" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" style="height: 120px" src="./Sneh JioTV_files/Sony_Pal.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png">
   <div class="card-body">
   <p class="card-text">Sony Pal</p>
   </div></a>
@@ -352,7 +352,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=ID" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG" style="height: 120px" src="./Sneh JioTV_files/ID.PNG">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG">
   <div class="card-body">
   <p class="card-text">Investigation Discovery</p>
   </div></a>
@@ -365,7 +365,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Discovery_Turbo" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" style="height: 120px" src="./Sneh JioTV_files/Discovery_Turbo.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png">
   <div class="card-body">
   <p class="card-text">Discovery Turbo</p>
   </div></a>
@@ -378,7 +378,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Travel_XP_HD" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" style="height: 120px" src="./Sneh JioTV_files/Travel_XP_HD.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png">
   <div class="card-body">
   <p class="card-text">Travel XP HD</p>
   </div></a>
@@ -391,7 +391,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Travel_XP" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" style="height: 120px" src="./Sneh JioTV_files/Travel_XP.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png">
   <div class="card-body">
   <p class="card-text">Travel XP HD Hindi</p>
   </div></a>
@@ -404,7 +404,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Animal_Planet_HD_Tamil" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" style="height: 120px" src="./Sneh JioTV_files/Animal_Planet_HD_Tamil.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png">
   <div class="card-body">
   <p class="card-text">Animal Planet HD Tamil</p>
   </div></a>
@@ -417,7 +417,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=MTV_HD_Plus" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" style="height: 120px" src="./Sneh JioTV_files/MTV_HD_Plus.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png">
   <div class="card-body">
   <p class="card-text">MTV HD Plus</p>
   </div></a>
@@ -430,7 +430,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=MTV" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" style="height: 120px" src="./Sneh JioTV_files/MTV.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png">
   <div class="card-body">
   <p class="card-text">MTV</p>
   </div></a>
@@ -443,7 +443,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=9XM" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" style="height: 120px" src="./Sneh JioTV_files/9XM.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png">
   <div class="card-body">
   <p class="card-text">9XM</p>
   </div></a>
@@ -456,7 +456,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=E_24" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png" style="height: 120px" src="./Sneh JioTV_files/E_24.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png">
   <div class="card-body">
   <p class="card-text">E 24</p>
   </div></a>
@@ -469,7 +469,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Sony_BBC_Earth_HD_English" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png" style="height: 120px" src="./Sneh JioTV_files/Sony_BBC_Earth_HD_English.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png">
   <div class="card-body">
   <p class="card-text">Sony BBC Earth HD English</p>
   </div></a>
@@ -482,7 +482,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=MTV_Beats_HD" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" style="height: 120px" src="./Sneh JioTV_files/MTV_Beats_HD.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png">
   <div class="card-body">
   <p class="card-text">MTV Beats HD</p>
   </div></a>
@@ -495,7 +495,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Insight" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Insight.png" style="height: 120px" src="./Sneh JioTV_files/Insight.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Insight.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Insight.png">
   <div class="card-body">
   <p class="card-text">Insight HD</p>
   </div></a>
@@ -508,7 +508,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=B4U_Music" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" style="height: 120px" src="./Sneh JioTV_files/B4U_Music.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png">
   <div class="card-body">
   <p class="card-text">B4U Music</p>
   </div></a>
@@ -521,7 +521,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Mastiii" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" style="height: 120px" src="./Sneh JioTV_files/Mastiii.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png">
   <div class="card-body">
   <p class="card-text">Mastiii</p>
   </div></a>
@@ -534,7 +534,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Zing" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" style="height: 120px" src="./Sneh JioTV_files/Zing.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png">
   <div class="card-body">
   <p class="card-text">Zing</p>
   </div></a>
@@ -547,7 +547,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Music_India" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" style="height: 120px" src="./Sneh JioTV_files/Music_India.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png">
   <div class="card-body">
   <p class="card-text">Music India</p>
   </div></a>
@@ -560,7 +560,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=9X_Jalwa" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" style="height: 120px" src="./Sneh JioTV_files/9X_Jalwa.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png">
   <div class="card-body">
   <p class="card-text">9X Jalwa</p>
   </div></a>
@@ -573,7 +573,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Animal_Planet_Hindi" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" style="height: 120px" src="./Sneh JioTV_files/Animal_Planet_Hindi.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png">
   <div class="card-body">
   <p class="card-text">Animal Planet Hindi</p>
   </div></a>
@@ -586,7 +586,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Discovery_Channel_Hindi" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" style="height: 120px" src="./Sneh JioTV_files/Discovery_Channel_Hindi.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png">
   <div class="card-body">
   <p class="card-text">Discovery Channel Hindi</p>
   </div></a>
@@ -599,7 +599,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Bflix_Movies" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png" style="height: 120px" src="./Sneh JioTV_files/Bflix_Movies.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png">
   <div class="card-body">
   <p class="card-text">Bflix Movies</p>
   </div></a>
@@ -612,7 +612,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Manoranjan_TV" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_TV.png" style="height: 120px" src="./Sneh JioTV_files/Manoranjan_TV.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_TV.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_TV.png">
   <div class="card-body">
   <p class="card-text">Manoranjan TV</p>
   </div></a>
@@ -625,7 +625,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=B4U_Kadak" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" style="height: 120px" src="./Sneh JioTV_files/B4U_Kadak.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png">
   <div class="card-body">
   <p class="card-text">B4U Kadak</p>
   </div></a>
@@ -638,7 +638,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=B4U_Bhojpuri" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png" style="height: 120px" src="./Sneh JioTV_files/B4U_Bhojpuri.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png">
   <div class="card-body">
   <p class="card-text">B4U Bhojpuri</p>
   </div></a>
@@ -651,7 +651,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Arre" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Arre.png" style="height: 120px" src="./Sneh JioTV_files/Arre.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Arre.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Arre.png">
   <div class="card-body">
   <p class="card-text">Arre HD</p>
   </div></a>
@@ -664,7 +664,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Dangal" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png" style="height: 120px" src="./Sneh JioTV_files/Dangal.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png">
   <div class="card-body">
   <p class="card-text">Dangal</p>
   </div></a>
@@ -6590,7 +6590,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=News_18_Assam" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Assam.png" style="height: 120px" src="./Sneh JioTV_files/News_18_Assam.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Assam.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Assam.png">
   <div class="card-body">
   <p class="card-text">News 18 Assam</p>
   </div></a>
@@ -6603,7 +6603,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Ramdhenu" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ramdhenu.png" style="height: 120px" src="./Sneh JioTV_files/Ramdhenu.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ramdhenu.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ramdhenu.png">
   <div class="card-body">
   <p class="card-text">Ramdhenu</p>
   </div></a>
@@ -6616,7 +6616,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Assam_Talks" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Assam_Talks.png" style="height: 120px" src="./Sneh JioTV_files/Assam_Talks.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Assam_Talks.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Assam_Talks.png">
   <div class="card-body">
   <p class="card-text">Assam Talks</p>
   </div></a>
@@ -6629,7 +6629,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Rengoni" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rengoni.png" style="height: 120px" src="./Sneh JioTV_files/Rengoni.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rengoni.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rengoni.png">
   <div class="card-body">
   <p class="card-text">Rengoni</p>
   </div></a>
@@ -6642,7 +6642,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=North_East_Live" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/North_East_Live.png" style="height: 120px" src="./Sneh JioTV_files/North_East_Live.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/North_East_Live.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/North_East_Live.png">
   <div class="card-body">
   <p class="card-text">North East Live</p>
   </div></a>
@@ -6655,7 +6655,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Twenty_Four_News" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" style="height: 120px" src="./Sneh JioTV_files/TWENTY_FOUR_NEWS.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png">
   <div class="card-body">
   <p class="card-text">Twenty Four News</p>
   </div></a>
@@ -6668,7 +6668,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=TV9_Bharatvarsh" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_BHARATVARSH.png" style="height: 120px" src="./Sneh JioTV_files/TV9_BHARATVARSH.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_BHARATVARSH.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_BHARATVARSH.png">
   <div class="card-body">
   <p class="card-text">TV9 Bharatvarsh</p>
   </div></a>
@@ -6681,7 +6681,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Tehzeeb_TV" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/TEHZEEB_TV.png" style="height: 120px" src="./Sneh JioTV_files/TEHZEEB_TV.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/TEHZEEB_TV.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/TEHZEEB_TV.png">
   <div class="card-body">
   <p class="card-text">Tehzeeb TV</p>
   </div></a>
@@ -6694,7 +6694,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Kolkata_Live" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_LIVE.png" style="height: 120px" src="./Sneh JioTV_files/Kolkata_LIVE.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_LIVE.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_LIVE.png">
   <div class="card-body">
   <p class="card-text">Kolkata Live</p>
   </div></a>
@@ -6707,7 +6707,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Aastha_Telugu" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" style="height: 120px" src="./Sneh JioTV_files/Aastha_Telugu.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png">
   <div class="card-body">
   <p class="card-text">Aastha Telugu</p>
   </div></a>
@@ -6720,7 +6720,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Aastha_Tamil" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Tamil.png" style="height: 120px" src="./Sneh JioTV_files/Aastha_Tamil.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Tamil.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Tamil.png">
   <div class="card-body">
   <p class="card-text">Aastha Tamil</p>
   </div></a>
@@ -6733,7 +6733,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Aastha_Kannada" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Kannada.png" style="height: 120px" src="./Sneh JioTV_files/Aastha_Kannada.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Kannada.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Kannada.png">
   <div class="card-body">
   <p class="card-text">Aastha Kannada</p>
   </div></a>
@@ -6746,7 +6746,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Surya_Samachar" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Samachar.png" style="height: 120px" src="./Sneh JioTV_files/Surya_Samachar.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Samachar.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Samachar.png">
   <div class="card-body">
   <p class="card-text">Surya Samachar</p>
   </div></a>
@@ -6759,7 +6759,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Surya_Cinema" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Cinema.png" style="height: 120px" src="./Sneh JioTV_files/Surya_Cinema.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Cinema.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Cinema.png">
   <div class="card-body">
   <p class="card-text">Surya Cinema</p>
   </div></a>
@@ -6772,7 +6772,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Surya_Bhakti" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Bhakti.png" style="height: 120px" src="./Sneh JioTV_files/Surya_Bhakti.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Bhakti.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Bhakti.png">
   <div class="card-body">
   <p class="card-text">Surya Bhakti</p>
   </div></a>
@@ -6785,7 +6785,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Ctvn_Akd_Plus" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/CTVN_AKD_Plus.png" style="height: 120px" src="./Sneh JioTV_files/CTVN_AKD_Plus.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/CTVN_AKD_Plus.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/CTVN_AKD_Plus.png">
   <div class="card-body">
   <p class="card-text">Ctvn Akd Plus</p>
   </div></a>
@@ -6798,7 +6798,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Calcutta_News" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Calcutta_News.png" style="height: 120px" src="./Sneh JioTV_files/Calcutta_News.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Calcutta_News.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Calcutta_News.png">
   <div class="card-body">
   <p class="card-text">Calcutta News</p>
   </div></a>
@@ -6811,7 +6811,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Total_Tv_Haryana" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Total_Tv_Haryana.png" style="height: 120px" src="./Sneh JioTV_files/Total_Tv_Haryana.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Total_Tv_Haryana.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Total_Tv_Haryana.png">
   <div class="card-body">
   <p class="card-text">Total Tv Haryana</p>
   </div></a>
@@ -6824,7 +6824,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Kolkata_TV" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_TV.png" style="height: 120px" src="./Sneh JioTV_files/Kolkata_TV.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_TV.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_TV.png">
   <div class="card-body">
   <p class="card-text">Kolkata TV</p>
   </div></a>
@@ -6837,7 +6837,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=SET_MAX" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" style="height: 120px" src="./Sneh JioTV_files/SET_MAX.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png">
   <div class="card-body">
   <p class="card-text">Sony Max SD</p>
   </div></a>
@@ -6850,7 +6850,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Sony_BBC_Earth_SD" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png" style="height: 120px" src="./Sneh JioTV_files/Sony_BBC_Earth_SD.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png">
   <div class="card-body">
   <p class="card-text">Sony BBC Earth SD</p>
   </div></a>
@@ -6863,7 +6863,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=BBC_Marathi" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Marathi.png" style="height: 120px" src="./Sneh JioTV_files/BBC_Marathi.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Marathi.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Marathi.png">
   <div class="card-body">
   <p class="card-text">BBC Marathi</p>
   </div></a>
@@ -6876,7 +6876,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Millionlights" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Millionlights.png" style="height: 120px" src="./Sneh JioTV_files/Millionlights.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Millionlights.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Millionlights.png">
   <div class="card-body">
   <p class="card-text">Millionlights</p>
   </div></a>
@@ -6889,7 +6889,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Swayam_Prabha_01" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_01.png" style="height: 120px" src="./Sneh JioTV_files/Swayam_Prabha_01.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_01.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_01.png">
   <div class="card-body">
   <p class="card-text">Swayam Prabha 01</p>
   </div></a>
@@ -6902,7 +6902,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Swayam_Prabha_02" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_02.png" style="height: 120px" src="./Sneh JioTV_files/Swayam_Prabha_02.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_02.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_02.png">
   <div class="card-body">
   <p class="card-text">Swayam Prabha 02</p>
   </div></a>
@@ -6915,7 +6915,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Swayam_Prabha_03" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_03.png" style="height: 120px" src="./Sneh JioTV_files/Swayam_Prabha_03.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_03.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_03.png">
   <div class="card-body">
   <p class="card-text">Swayam Prabha 03</p>
   </div></a>
@@ -6928,7 +6928,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Jio_Cinema" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cinema.png" style="height: 120px" src="./Sneh JioTV_files/Jio_Cinema.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cinema.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cinema.png">
   <div class="card-body">
   <p class="card-text">JioCinema</p>
   </div></a>
@@ -6941,7 +6941,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=BTV" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/BTV.png" style="height: 120px" src="./Sneh JioTV_files/BTV.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/BTV.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/BTV.png">
   <div class="card-body">
   <p class="card-text">BTV</p>
   </div></a>
@@ -6954,7 +6954,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Newslive" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Newslive.png" style="height: 120px" src="./Sneh JioTV_files/Newslive.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Newslive.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Newslive.png">
   <div class="card-body">
   <p class="card-text">Newslive</p>
   </div></a>
@@ -6967,7 +6967,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=PTC_Music" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Music.png" style="height: 120px" src="./Sneh JioTV_files/PTC_Music.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Music.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Music.png">
   <div class="card-body">
   <p class="card-text">PTC Music</p>
   </div></a>
@@ -6980,7 +6980,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Samara_News" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Samara_News.png" style="height: 120px" src="./Sneh JioTV_files/Samara_News.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Samara_News.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Samara_News.png">
   <div class="card-body">
   <p class="card-text">Samara News</p>
   </div></a>
@@ -6993,7 +6993,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Ayush_TV" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ayush_TV.png" style="height: 120px" src="./Sneh JioTV_files/Ayush_TV.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ayush_TV.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ayush_TV.png">
   <div class="card-body">
   <p class="card-text">Ayush TV</p>
   </div></a>
@@ -7006,7 +7006,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Desi_Channel" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Channel.png" style="height: 120px" src="./Sneh JioTV_files/Desi_Channel.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Channel.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Channel.png">
   <div class="card-body">
   <p class="card-text">Desi Channel</p>
   </div></a>
@@ -7019,7 +7019,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=SaiTV" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/SaiTV.png" style="height: 120px" src="./Sneh JioTV_files/SaiTV.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/SaiTV.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/SaiTV.png">
   <div class="card-body">
   <p class="card-text">Sai TV</p>
   </div></a>
@@ -7032,7 +7032,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Lakshya_TV" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Lakshya_TV.png" style="height: 120px" src="./Sneh JioTV_files/Lakshya_TV.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Lakshya_TV.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Lakshya_TV.png">
   <div class="card-body">
   <p class="card-text">Lakshya TV</p>
   </div></a>
@@ -7045,7 +7045,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Angel_TV_HD" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Angel_TV_HD.png" style="height: 120px" src="./Sneh JioTV_files/Angel_TV_HD.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Angel_TV_HD.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Angel_TV_HD.png">
   <div class="card-body">
   <p class="card-text">Angel TV HD</p>
   </div></a>
@@ -7058,7 +7058,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=PTC_Simran" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Simran.png" style="height: 120px" src="./Sneh JioTV_files/PTC_Simran.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Simran.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Simran.png">
   <div class="card-body">
   <p class="card-text">PTC Simran</p>
   </div></a>
@@ -7071,7 +7071,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Sai_Leela" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sai_Leela.png" style="height: 120px" src="./Sneh JioTV_files/Sai_Leela.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sai_Leela.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sai_Leela.png">
   <div class="card-body">
   <p class="card-text">Sai Leela</p>
   </div></a>
@@ -7084,7 +7084,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Saileela_TV_Telugu" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saileela_TV_Telugu.png" style="height: 120px" src="./Sneh JioTV_files/Saileela_TV_Telugu.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saileela_TV_Telugu.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saileela_TV_Telugu.png">
   <div class="card-body">
   <p class="card-text">Saileela TV Telugu</p>
   </div></a>
@@ -7097,7 +7097,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Hindu_Dharmam" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png" style="height: 120px" src="./Sneh JioTV_files/Hindu_Dharmam.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png">
   <div class="card-body">
   <p class="card-text">Hindu Dharmam</p>
   </div></a>
@@ -7110,7 +7110,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Rujumargam_TV" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rujumargam_TV.png" style="height: 120px" src="./Sneh JioTV_files/Rujumargam_TV.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rujumargam_TV.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rujumargam_TV.png">
   <div class="card-body">
   <p class="card-text">Mercy TV</p>
   </div></a>
@@ -7123,7 +7123,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Calvary" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Calvary.png" style="height: 120px" src="./Sneh JioTV_files/Calvary.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Calvary.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Calvary.png">
   <div class="card-body">
   <p class="card-text">Calvary</p>
   </div></a>
@@ -7136,7 +7136,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Swayam_Prabha_04" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_04.png" style="height: 120px" src="./Sneh JioTV_files/Swayam_Prabha_04.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_04.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_04.png">
   <div class="card-body">
   <p class="card-text">Swayam Prabha 04</p>
   </div></a>
@@ -7149,7 +7149,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Swayam_Prabha_05" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_05.png" style="height: 120px" src="./Sneh JioTV_files/Swayam_Prabha_05.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_05.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_05.png">
   <div class="card-body">
   <p class="card-text">Swayam Prabha 05</p>
   </div></a>
@@ -9762,7 +9762,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Iskon_Temples_New" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Iskon_Temples_New.png" style="height: 120px" src="./Sneh JioTV_files/Iskon_Temples_New.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Iskon_Temples_New.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Iskon_Temples_New.png">
   <div class="card-body">
   <p class="card-text">ISKCON Darshan</p>
   </div></a>
@@ -9775,7 +9775,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Sri_Patna_Sahib" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Patna_Sahib.png" style="height: 120px" src="./Sneh JioTV_files/Sri_Patna_Sahib.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Patna_Sahib.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Patna_Sahib.png">
   <div class="card-body">
   <p class="card-text">Takht Sri Patna Sahib - Patna</p>
   </div></a>
@@ -9788,7 +9788,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Shani_Shingnapur" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shani_Shingnapur.png" style="height: 120px" src="./Sneh JioTV_files/Shani_Shingnapur.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shani_Shingnapur.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shani_Shingnapur.png">
   <div class="card-body">
   <p class="card-text">Shani Shingnapur</p>
   </div></a>
@@ -9801,7 +9801,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Prati_Shirdi_Saibaba" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prati_Shirdi_Saibaba.png" style="height: 120px" src="./Sneh JioTV_files/Prati_Shirdi_Saibaba.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prati_Shirdi_Saibaba.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prati_Shirdi_Saibaba.png">
   <div class="card-body">
   <p class="card-text">Prati Shirdi Saibaba</p>
   </div></a>
@@ -9814,7 +9814,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Ganga_Darshan_Varanasi" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ganga_Darshan_Varanasi.png" style="height: 120px" src="./Sneh JioTV_files/Ganga_Darshan_Varanasi.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ganga_Darshan_Varanasi.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ganga_Darshan_Varanasi.png">
   <div class="card-body">
   <p class="card-text">Ganga Darshan Varanasi</p>
   </div></a>
@@ -9827,7 +9827,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Ashtavinayak_Ozar" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ashtavinayak_Ozar.png" style="height: 120px" src="./Sneh JioTV_files/Ashtavinayak_Ozar.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ashtavinayak_Ozar.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ashtavinayak_Ozar.png">
   <div class="card-body">
   <p class="card-text">Ashtavinayak Ozar</p>
   </div></a>
@@ -9840,7 +9840,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=SVBC2" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC2.png" style="height: 120px" src="./Sneh JioTV_files/SVBC2.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC2.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC2.png">
   <div class="card-body">
   <p class="card-text">SVBC2</p>
   </div></a>
@@ -9853,7 +9853,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Ichhapuran_Balaji_Rajasthan" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ichhapuran_Balaji_Rajasthan.png" style="height: 120px" src="./Sneh JioTV_files/Ichhapuran_Balaji_Rajasthan.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ichhapuran_Balaji_Rajasthan.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ichhapuran_Balaji_Rajasthan.png">
   <div class="card-body">
   <p class="card-text">Ichhapuran Balaji Rajasthan</p>
   </div></a>
@@ -9866,7 +9866,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Iskon_Girgaon" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Iskon_Girgaon.png" style="height: 120px" src="./Sneh JioTV_files/Iskon_Girgaon.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Iskon_Girgaon.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Iskon_Girgaon.png">
   <div class="card-body">
   <p class="card-text">Iskon Girgaon</p>
   </div></a>
@@ -9879,7 +9879,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Ashtavinayak_Ranjangaon" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ashtavinayak_Ranjangaon.png" style="height: 120px" src="./Sneh JioTV_files/Ashtavinayak_Ranjangaon.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ashtavinayak_Ranjangaon.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ashtavinayak_Ranjangaon.png">
   <div class="card-body">
   <p class="card-text">Ashtavinayak Ranjangaon</p>
   </div></a>
@@ -9892,7 +9892,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Karani_Mata_Rajasthan" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Karani_Mata_Rajasthan.png" style="height: 120px" src="./Sneh JioTV_files/Karani_Mata_Rajasthan.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Karani_Mata_Rajasthan.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Karani_Mata_Rajasthan.png">
   <div class="card-body">
   <p class="card-text">Karani Mata Rajasthan</p>
   </div></a>
@@ -9905,7 +9905,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Mahalaxmi_Mumbai" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mahalaxmi_Mumbai.png" style="height: 120px" src="./Sneh JioTV_files/Mahalaxmi_Mumbai.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mahalaxmi_Mumbai.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mahalaxmi_Mumbai.png">
   <div class="card-body">
   <p class="card-text">Mahalaxmi Mumbai</p>
   </div></a>
@@ -9918,7 +9918,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Babulnaath_Mumbai" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Babulnaath_Mumbai.png" style="height: 120px" src="./Sneh JioTV_files/Babulnaath_Mumbai.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Babulnaath_Mumbai.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Babulnaath_Mumbai.png">
   <div class="card-body">
   <p class="card-text">Babulnaath Mumbai</p>
   </div></a>
@@ -9931,7 +9931,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Mumbadevi_Mumbai" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mumbadevi_Mumbai.png" style="height: 120px" src="./Sneh JioTV_files/Mumbadevi_Mumbai.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mumbadevi_Mumbai.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mumbadevi_Mumbai.png">
   <div class="card-body">
   <p class="card-text">Mumbadevi Mumbai</p>
   </div></a>
@@ -9944,7 +9944,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=BBC_Hindi" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Hindi.png" style="height: 120px" src="./Sneh JioTV_files/BBC_Hindi.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Hindi.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Hindi.png">
   <div class="card-body">
   <p class="card-text">BBC News Hindi</p>
   </div></a>
@@ -9957,7 +9957,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=TIME8" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/TIME8.png" style="height: 120px" src="./Sneh JioTV_files/TIME8.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/TIME8.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/TIME8.png">
   <div class="card-body">
   <p class="card-text">TIME8</p>
   </div></a>
@@ -9970,7 +9970,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Krishna_Vani" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Krishna_Vani.png" style="height: 120px" src="./Sneh JioTV_files/Krishna_Vani.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Krishna_Vani.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Krishna_Vani.png">
   <div class="card-body">
   <p class="card-text">Krishna Vani</p>
   </div></a>
@@ -9983,7 +9983,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Wah_Punjabi" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wah_Punjabi.png" style="height: 120px" src="./Sneh JioTV_files/Wah_Punjabi.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wah_Punjabi.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wah_Punjabi.png">
   <div class="card-body">
   <p class="card-text">Wah Punjabi</p>
   </div></a>
@@ -9996,7 +9996,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=YTV_INDIA" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/YTV_INDIA.png" style="height: 120px" src="./Sneh JioTV_files/YTV_INDIA.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/YTV_INDIA.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/YTV_INDIA.png">
   <div class="card-body">
   <p class="card-text">YTV India</p>
   </div></a>
@@ -10009,7 +10009,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=9_Bharat_Samachar" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/9_Bharat_Samachar.png" style="height: 120px" src="./Sneh JioTV_files/9_Bharat_Samachar.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/9_Bharat_Samachar.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/9_Bharat_Samachar.png">
   <div class="card-body">
   <p class="card-text">9 Bharat Samachar</p>
   </div></a>
@@ -10022,7 +10022,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=News_Only" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Only.png" style="height: 120px" src="./Sneh JioTV_files/News_Only.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Only.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Only.png">
   <div class="card-body">
   <p class="card-text">News Only</p>
   </div></a>
@@ -10035,7 +10035,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Gurkebaani" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gurkebaani.png" style="height: 120px" src="./Sneh JioTV_files/Gurkebaani.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gurkebaani.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gurkebaani.png">
   <div class="card-body">
   <p class="card-text">Gurkibani</p>
   </div></a>
@@ -10048,7 +10048,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Nakoda_Temple" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nakoda_Temple.png" style="height: 120px" src="./Sneh JioTV_files/Nakoda_Temple.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nakoda_Temple.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nakoda_Temple.png">
   <div class="card-body">
   <p class="card-text">Shri Jain Nakoda Parshwanath Tirth</p>
   </div></a>
@@ -10061,7 +10061,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Argus_TV" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Argus_TV.png" style="height: 120px" src="./Sneh JioTV_files/Argus_TV.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Argus_TV.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Argus_TV.png">
   <div class="card-body">
   <p class="card-text">Argus News</p>
   </div></a>
@@ -10074,7 +10074,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Braj_Darshan" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Braj_Darshan.png" style="height: 120px" src="./Sneh JioTV_files/Braj_Darshan.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Braj_Darshan.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Braj_Darshan.png">
   <div class="card-body">
   <p class="card-text">Braj Darshan</p>
   </div></a>
@@ -10087,7 +10087,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Bhoomi_TV" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhoomi_TV.png" style="height: 120px" src="./Sneh JioTV_files/Bhoomi_TV.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhoomi_TV.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhoomi_TV.png">
   <div class="card-body">
   <p class="card-text">BHOOMI 24x7</p>
   </div></a>
@@ -10100,7 +10100,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Kannur_one" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kannur_one.png" style="height: 120px" src="./Sneh JioTV_files/Kannur_one.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kannur_one.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kannur_one.png">
   <div class="card-body">
   <p class="card-text">Kannur One</p>
   </div></a>
@@ -10113,7 +10113,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=TEST13_HD" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/TEST13_HD.png" style="height: 120px" src="./Sneh JioTV_files/TEST13_HD.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/TEST13_HD.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/TEST13_HD.png">
   <div class="card-body">
   <p class="card-text">TEST13 HD</p>
   </div></a>
@@ -10126,7 +10126,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=World_Punjab" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/World_Punjab.png" style="height: 120px" src="./Sneh JioTV_files/World_Punjab.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/World_Punjab.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/World_Punjab.png">
   <div class="card-body">
   <p class="card-text">World  Punjabi</p>
   </div></a>
@@ -10139,7 +10139,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Samachar_Today" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Today.png" style="height: 120px" src="./Sneh JioTV_files/Samachar_Today.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Today.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Today.png">
   <div class="card-body">
   <p class="card-text">Samachar Today</p>
   </div></a>
@@ -10152,7 +10152,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Dnyanganga_9_English_Medium" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_9_English_Medium.png" style="height: 120px" src="./Sneh JioTV_files/Dnyanganga_9_English_Medium.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_9_English_Medium.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_9_English_Medium.png">
   <div class="card-body">
   <p class="card-text">Dnyanganga 9th English</p>
   </div></a>
@@ -10165,7 +10165,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Dnyanganga_9_Urdhu_Medium" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_9_Urdhu_Medium.png" style="height: 120px" src="./Sneh JioTV_files/Dnyanganga_9_Urdhu_Medium.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_9_Urdhu_Medium.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_9_Urdhu_Medium.png">
   <div class="card-body">
   <p class="card-text">Dnyanganga 9th Urdu</p>
   </div></a>
@@ -10178,7 +10178,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Dnyanganga_10_Urdhu_Medium" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_10_Urdhu_Medium.png" style="height: 120px" src="./Sneh JioTV_files/Dnyanganga_10_Urdhu_Medium.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_10_Urdhu_Medium.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_10_Urdhu_Medium.png">
   <div class="card-body">
   <p class="card-text">Dnyanganga 10th Urdu</p>
   </div></a>
@@ -10191,7 +10191,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Parmarth_TV" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Parmarth_TV.png" style="height: 120px" src="./Sneh JioTV_files/Parmarth_TV.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Parmarth_TV.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Parmarth_TV.png">
   <div class="card-body">
   <p class="card-text">Parmarth TV</p>
   </div></a>
@@ -10204,7 +10204,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Food_Food" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" style="height: 120px" src="./Sneh JioTV_files/Food_Food.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png">
   <div class="card-body">
   <p class="card-text">Food Food</p>
   </div></a>
@@ -10217,7 +10217,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Care_World" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Care_World.png" style="height: 120px" src="./Sneh JioTV_files/Care_World.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Care_World.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Care_World.png">
   <div class="card-body">
   <p class="card-text">Care World</p>
   </div></a>
@@ -10230,7 +10230,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=TV_Teacher" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_Teacher.png" style="height: 120px" src="./Sneh JioTV_files/TV_Teacher.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_Teacher.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_Teacher.png">
   <div class="card-body">
   <p class="card-text">TV Teacher</p>
   </div></a>
@@ -10243,7 +10243,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Sangat_TV" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangat_TV.png" style="height: 120px" src="./Sneh JioTV_files/Sangat_TV.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangat_TV.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangat_TV.png">
   <div class="card-body">
   <p class="card-text">Sangat TV</p>
   </div></a>
@@ -10256,7 +10256,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=Sarvamangala" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sarvamangala.png" style="height: 120px" src="./Sneh JioTV_files/Sarvamangala.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sarvamangala.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sarvamangala.png">
   <div class="card-body">
   <p class="card-text">Sarvamangala</p>
   </div></a>
@@ -10269,7 +10269,7 @@ include "ip.php";
 
   <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
   <a href="http://<?php echo $ip ?>/play.php?c=AB_News" class="card">
-  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/AB_News.png" style="height: 120px" src="./Sneh JioTV_files/AB_News.png">
+  <img class=" lazyloaded" data-src="http://jiotv.catchup.cdn.jio.com/dare_images/images/AB_News.png" style="height: 120px" src="http://jiotv.catchup.cdn.jio.com/dare_images/images/AB_News.png">
   <div class="card-body">
   <p class="card-text">AB News</p>
   </div></a>
